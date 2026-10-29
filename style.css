@@ -9,3 +9,42 @@
 
    We'll write styles here starting Monday.
    ========================================================== */
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #1ba7b1;
+    color: #0bfad2;
+    line-height: 1.5;
+    box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+
+}
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    color: #5f0bfa;
+}
+h2 {
+    font-size: 2rem;
+    margin-bottom: 0.95rem;
+}
+h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+a:hover {
+    color: #11db2c;
+}
+a:hover {
+    color: #528f91;
+}
+a:hover {
+    color: #c5d4cd;
+}
